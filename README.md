@@ -1,46 +1,15 @@
 # OrangeHRM Login Automation
 
-## Project Information
-Automation Testing menggunakan Cypress pada fitur Login OrangeHRM Demo.
-
-Website:
-https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-
-## Tools
-- Cypress
-- JavaScript
-- Visual Studio Code
-- Git
-- GitHub
-
-## Test Cases
-Total Test Case : 14
-
-### Positive Test
-- Login valid
-- Login dengan spasi di belakang username
-- Login menggunakan username huruf kapital
-- Login menggunakan tombol Enter
-
-### Negative Test
-- Username kosong
-- Password kosong
-- Username & Password kosong
-- Password salah
-- Username salah
-- Username & Password salah
-- Username karakter khusus
-- Username spasi di depan
-- Password huruf kapital
-- Akses Dashboard tanpa login
-
 ## Folder Structure
 
 ```
 cypress
 │
 ├── e2e
-│   └── login.cy.js
+│   ├── Quiz3-MiaSumiati
+│   │   └──Login.cy.js
+│   └── Tugas16-MiaSumiati
+│       └──Login-intercept.cy.js
 │
 ├── fixtures
 │   └── loginData.json
@@ -74,9 +43,14 @@ npx cypress run
 
 ## Result
 
-✅ 14 Test Case Passed
+✅ 14 Test Case Passed - Quiz 3
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8bffefb7-3a7b-4ef8-b68e-9eb11e868a79" />
+
+✅ 14 Test Case Passed - Tugas 16 Intercept
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0166f196-4d73-4bea-b3c3-fcc6413ff194" />
+
 
 
 ## Repository
