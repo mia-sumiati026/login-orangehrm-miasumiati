@@ -1,46 +1,3 @@
-# OrangeHRM Login Automation
-
-## Folder Structure
-
-```
-cypress
-│
-├── e2e
-│   ├── Quiz3-MiaSumiati
-│   │   └──Login.cy.js
-│   └── Tugas16-MiaSumiati
-│       └──Login-intercept.cy.js
-│
-├── fixtures
-│   └── loginData.json
-│
-├── support
-│   ├── commands.js
-│   └── e2e.js
-│
-├── cypress.config.js
-├── package.json
-└── README.md
-```
-
-## Installation
-
-```bash
-npm install
-```
-
-## Run Cypress
-
-```bash
-npx cypress open
-```
-
-atau
-
-```bash
-npx cypress run
-```
-
 ## Result
 
 ✅ 14 Test Case Passed - Quiz 3
@@ -50,6 +7,14 @@ npx cypress run
 ✅ 14 Test Case Passed - Tugas 16 Intercept
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0166f196-4d73-4bea-b3c3-fcc6413ff194" />
+
+✅ 14 Test Case Passed - Tugas 17 POM
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/36bb42b3-bf4f-44a6-9a06-f7f096bc9696" />
+
+✅ 14 Test Case Passed - Tugas 18 API Automation by Cypress
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1d40cf71-d3c1-4cf7-9377-53096e4c5487" />
+
 
 
 
