@@ -1,0 +1,19 @@
+{
+    "candidate": {
+        "firstName": "Mia",
+        "lastName": "Sumiati",
+        "email": "miasumiati@gmail.com"
+    },
+
+    "vacancy": {
+        "name": "Payroll Administrator"
+    },
+
+    "jobTitle": {
+        "name": "Payroll Administrator"
+    },
+
+    "hiringManager": {
+        "name": "Emily Jones"
+    }
+}

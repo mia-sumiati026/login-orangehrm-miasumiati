@@ -1,0 +1,56 @@
+{
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "invalidPassword": {
+    "username": "Admin",
+    "password": "123"
+  },
+
+  "invalidUsername": {
+    "username": "Administrator",
+    "password": "admin123"
+  },
+
+  "invalidBoth": {
+    "username": "Test",
+    "password": "Test123"
+  },
+
+  "specialCharacter": {
+    "username": "@dmin",
+    "password": "admin123"
+  },
+
+  "leadingSpace": {
+    "username": " Admin",
+    "password": "admin123"
+  },
+
+  "trailingSpace": {
+    "username": "Admin ",
+    "password": "admin123"
+  },
+
+  "uppercaseUsername": {
+    "username": "ADMIN",
+    "password": "admin123"
+  },
+
+  "uppercasePassword": {
+    "username": "Admin",
+    "password": "ADMIN123"
+  },
+
+  "enterLogin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "dashboardUrl": {
+    "url": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+  }
+
+}

@@ -1,0 +1,16 @@
+{
+    "employee": {
+        "invalidName": "MiaTesting123",
+        "specialCharacter": "@#$%^",
+        "number": "123456",
+        "space": " "
+    },
+
+    "jobTitle": {
+        "valid": "QA Engineer"
+    },
+
+    "location": {
+        "valid": "Texas R&D"
+    }
+}
